@@ -1,0 +1,11 @@
+.content{
+  padding: 20px;
+}
+.content img {
+  width: 300px;
+  height: 300px;
+}
+
+.description{
+  padding: 30px;
+}
